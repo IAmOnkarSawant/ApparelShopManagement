@@ -1,0 +1,2 @@
+# ApparelShopManagement
+I have seen small scale businesses related to Apparel Shop, Observed one common thing that the management software are a requirement oriented. Our CMD based application is a combo of all the basic requirements. we have used only C++ language. Highlights of application are: admin and user login, bill calculation, daily bill sheet generation, sales analysis, warehouse updates, stock updates, vendor information, etc.
